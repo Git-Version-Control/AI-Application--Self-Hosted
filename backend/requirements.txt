@@ -1,0 +1,11 @@
+uvicorn 0.23.2
+fastapi 0.101.1
+transformers 4.32.0
+torch 2.0.1
+torchvision 0.15.2
+torchaudio 2.0.2
+llama-cpp-python 0.1.78
+
+
+fast api install-https://fastapi.tiangolo.com/
+environment in freecode-https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
